@@ -1,0 +1,66 @@
+h1 {
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 20px;
+}
+
+h2{
+    padding-top: 20px;
+    margin-left: 60px;
+    text-align: justify;
+}
+
+label {
+    margin-left: 60px;
+    text-align: justify;
+}
+
+textarea{
+    margin-top: 20px;
+    width: 520px;
+    height: 60px;
+}
+
+select {
+    height:28px;
+    width : 200px;
+    font-size: 15px;
+    display: inline-block;
+    margin-right: 15px;
+}
+
+input[type="url"] {
+    width: 300px
+}
+
+input[type="file"] {
+    margin-right: 1px;
+}
+
+#add_social_media{
+    background-color: #d26bec;
+    color: black;
+    border: 2px solid black;
+    border-radius: 20px;
+    display: inline-block;
+    text-align: center;
+    cursor: pointer;
+    margin-left: 60px;
+    padding: 10px 10px;
+    margin-top: 20px;
+}
+
+#Submit_Button{
+    background-color: #d26bec;
+    color: black;
+    border: 2px solid black;
+    padding: 20px 40px;
+    border-radius: 20px;
+    display: block;
+    margin: 20px auto;
+    text-align: center;
+    cursor: pointer;;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    
+}

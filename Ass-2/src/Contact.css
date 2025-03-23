@@ -1,0 +1,24 @@
+#contact_heading{
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+#message{
+    margin-left:60px;
+    display:flex;
+    align-items: center;
+}
+
+#contact_submit{
+    background-color: #d26bec;
+    color: black;
+    border: 2px solid black;
+    padding: 20px 40px;
+    border-radius: 20px;
+    display: block;
+    margin: 20px auto;
+    text-align: center;
+    cursor: pointer;;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}

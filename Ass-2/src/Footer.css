@@ -1,0 +1,15 @@
+.footer_section{
+    background-color: purple;
+    color:white;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 100%;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+}
+
+#footer_p{
+    color:white;
+    text-align: center;
+}

@@ -1,0 +1,51 @@
+body.light_mode{
+    background-color: white;
+    color:black;
+}
+
+body.dark_mode{
+    background-color: black;
+    color:white;
+}
+
+body.light_mode h1, 
+body.light_mode h2,
+body.light_mode h3,
+body.light_mode p,
+body.light_mode a,
+body.light_mode button {
+  color: black;
+  background-color: inherit;
+}
+
+body.dark_mode h1,
+body.dark_mode h2,
+body.dark_mode h3,
+body.dark_mode p,
+body.dark_mode a,
+body.dark_mode button {
+  color: white;
+  background-color: inherit;
+}
+
+body.dark_mode hr {
+    border: 1px solid white;
+}
+
+nav, nav * {
+    color: white !important;  /* Or whatever fixed color you prefer */
+}
+
+
+#main{
+    background-color: #d26bec;
+    color: black;
+    border: 2px solid black;
+    padding: 20px 40px;
+    border-radius: 20px;
+    display: block;
+    margin: 20px auto;
+    text-align: center;
+    cursor: pointer;;
+    margin-top: 50px;
+}

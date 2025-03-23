@@ -1,0 +1,35 @@
+h2 , p {
+    color:black;
+    margin-left: 50px;
+    margin-right: 50px;
+    text-align: justify;
+}
+
+#Work, #contact_me {
+    background-color: #d26bec;
+    color: black;
+    border: 2px solid black;
+    padding: 20px 40px;
+    border-radius: 20px;
+    display: block;
+    margin: 20px auto;
+    text-align: center;
+    cursor: pointer;;
+    margin-top: 50px;
+}
+
+.button_row{
+    margin-left: 480px;
+    display:inline-flex;
+    justify-content: center;
+    justify-self: center;
+    gap: 29px;
+}
+
+hr{
+   width: 92.5%;
+   display: inline-block;
+   margin-left: 50px;
+   margin-right: 50px;
+   border: 1px solid black
+}

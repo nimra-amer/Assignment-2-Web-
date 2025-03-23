@@ -1,0 +1,17 @@
+body {
+  background-color: white;
+  margin: 0;
+  font-family: 'Times New Roman', Times, serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+body::before {
+   content: "";
+   position: fixed;
+   inset: 0;
+   border: 20px solid purple;
+   pointer-events: none; 
+}
+
